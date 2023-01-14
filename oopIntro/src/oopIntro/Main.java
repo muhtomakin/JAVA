@@ -28,9 +28,9 @@ public class Main {
             product3,
         };
 
-        for (Product product : products) {
-            System.out.println(product.getUnitPriceAfterDiscount());
-        }
+        //for (Product product : products) {
+        //    System.out.println(product.getUnitPriceAfterDiscount());
+        //}
 
         Category category1 = new Category();
         category1.setId(1);
